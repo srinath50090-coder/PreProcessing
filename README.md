@@ -3,7 +3,7 @@
 # Importing Libraries
 ---> Used pandas for data handling and manipulation.
 
----> Used Scikit-learn for Feature Scaling
+---> Used Scikit-learn for Feature Engineering
 
 # Time Series Data
 ---> Loaded the Financials dataset using parse_dates for the Date column and set it as the index to prepare for time series analysis.
